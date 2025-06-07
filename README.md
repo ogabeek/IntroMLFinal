@@ -8,8 +8,8 @@
 
 ## Project Goals
 
-**Main goal** is get graded during the ML intro course 🙃
-**Minor aim #2** is to identify which features makes the most impact on Student's performance from the df with shapes (6607, 20) and features such 
+- **Main goal** is get graded during the ML intro course 🙃
+- **Minor aim #2** is to identify which features makes the most impact on Student's performance from the df with shapes (6607, 20) and features such 
 
 
 ## Approach
